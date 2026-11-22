@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Naomi! ( ^_^)／
 
+I'm a Computer Science student at Toronto Metropolitan University with an interest in IT, cybersecurity, and software development.
+I enjoy learning new technologies, solving problems, and building practical projects that help me develop my technical skills.
 <!--
 **NomeGnome/NomeGnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
