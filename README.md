@@ -1,4 +1,4 @@
-## Hi, I'm Naomi! (˶ᵔᗜᵔ˶)ﾉﾞ
+## Hi, I'm Naomi!
 
 I'm a Computer Science student at Toronto Metropolitan University with an interest in IT, cybersecurity, and software development.
 
