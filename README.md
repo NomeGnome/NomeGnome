@@ -1,9 +1,14 @@
-## @NomeGnome 
+<h2>Hello, I'm @NomeGnome 👋</h2>
 
+<p>
+  I'm a <b>Computer Science student</b> at Toronto Metropolitan University
+  with an interest in <b>IT, cybersecurity, and software development</b>.
+</p>
 
-Computer Science student at Toronto Metropolitan University with an interest in IT, cybersecurity, and software development.
-
-Enjoys learning new technologies, solving problems, and working on creative technical projects.
+<p>
+  I enjoy learning new technologies, solving problems, and working on
+  <b>creative technical projects</b>.
+</p>
 <!--
 **NomeGnome/NomeGnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
