@@ -1,4 +1,5 @@
-## Hi, I'm Naomi! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="28" height="28" alt="Waving hand" />
+## Hi, I'm Naomi! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="20" height="20">
+
 
 I'm a Computer Science student at Toronto Metropolitan University with an interest in IT, cybersecurity, and software development.
 
