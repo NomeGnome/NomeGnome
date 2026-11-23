@@ -1,4 +1,4 @@
-<b>😸 Hello, I'm @NomeGnome</b> <br>
+<b>Hello, I'm @NomeGnome</b> <br>
 I'm a Computer Science student at Toronto Metropolitan University with an interest in IT, cybersecurity, and software development.
 I enjoy learning new technologies, solving problems, and working on creative technical projects.
 <!--
